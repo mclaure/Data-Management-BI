@@ -8,3 +8,9 @@ C:\Documents\Academia\UAGRM\Data Management and Business Intelligence V1\Demo\Bi
 C:\Documents\Academia\UAGRM\Data Management and Business Intelligence V1\Demo\BikeStoresBI\BikeStoresDW\obj\Debug\predeploy.sql
 C:\Documents\Academia\UAGRM\Data Management and Business Intelligence V1\Demo\BikeStoresBI\BikeStoresDW\obj\Debug\BikeStoresDW.dll
 C:\Documents\Academia\UAGRM\Data Management and Business Intelligence V1\Demo\BikeStoresBI\BikeStoresDW\obj\Debug\BikeStoresDW.pdb
+C:\Documents\Academia\UAGRM\Data Management and Business Intelligence V1\Data-Management-BI\BikeStoresBI\BikeStoresDW\bin\Debug\BikeStoresDW.dacpac
+C:\Documents\Academia\UAGRM\Data Management and Business Intelligence V1\Data-Management-BI\BikeStoresBI\BikeStoresDW\bin\Debug\BikeStoresDW.dll
+C:\Documents\Academia\UAGRM\Data Management and Business Intelligence V1\Data-Management-BI\BikeStoresBI\BikeStoresDW\bin\Debug\BikeStoresDW.pdb
+C:\Documents\Academia\UAGRM\Data Management and Business Intelligence V1\Data-Management-BI\BikeStoresBI\BikeStoresDW\obj\Debug\BikeStoresDW.sqlproj.AssemblyReference.cache
+C:\Documents\Academia\UAGRM\Data Management and Business Intelligence V1\Data-Management-BI\BikeStoresBI\BikeStoresDW\obj\Debug\BikeStoresDW.dll
+C:\Documents\Academia\UAGRM\Data Management and Business Intelligence V1\Data-Management-BI\BikeStoresBI\BikeStoresDW\obj\Debug\BikeStoresDW.pdb

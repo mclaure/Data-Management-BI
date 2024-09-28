@@ -1,0 +1,41 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [staging] (Schema)
+       [staging].[customer] (Table)
+       [staging].[orders] (Table)
+       [staging].[product] (Table)
+       [staging].[staff] (Table)
+       [staging].[store] (Table)
+       [dbo].[DimCustomer] (Table)
+       [dbo].[DimDate] (Table)
+       [dbo].[DimProduct] (Table)
+       [dbo].[DimStaff] (Table)
+       [dbo].[DimStore] (Table)
+       [dbo].[FactOrders] (Table)
+       [dbo].[PackageConfig] (Table)
+       [dbo].[FK_DimCustomer] (Foreign Key)
+       [dbo].[FK_DimDate_OrderDate] (Foreign Key)
+       [dbo].[FK_DimDate_RequiredDate] (Foreign Key)
+       [dbo].[FK_DimDate_ShippedDate] (Foreign Key)
+       [dbo].[FK_DimProduct] (Foreign Key)
+       [dbo].[FK_DimStaff] (Foreign Key)
+       [dbo].[FK_DimStore] (Foreign Key)
+       [dbo].[DW_MergeDimCustomer] (Procedure)
+       [dbo].[DW_MergeDimProduct] (Procedure)
+       [dbo].[DW_MergeDimStaff] (Procedure)
+       [dbo].[DW_MergeDimStore] (Procedure)
+       [dbo].[DW_MergeFactOrders] (Procedure)
+       [dbo].[GetLastPackageRowVersion] (Procedure)
+       [dbo].[UpdateLastPackageRowVersion] (Procedure)
+
+** Supporting actions
