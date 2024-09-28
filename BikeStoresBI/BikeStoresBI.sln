@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "BikeStoresOLTP", "BikeStoresOLTP\BikeStoresOLTP.sqlproj", "{293C8BD7-9B05-46F5-B3FA-DE77609A4946}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Databases", "Databases", "{EEF558D4-9C9E-4041-844D-6A8F97B26F8E}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "BikeStoresDW", "BikeStoresDW\BikeStoresDW.sqlproj", "{3890E5EB-2ED8-4DFD-B3B8-3EE3EBE74977}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{293C8BD7-9B05-46F5-B3FA-DE77609A4946}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{293C8BD7-9B05-46F5-B3FA-DE77609A4946}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{293C8BD7-9B05-46F5-B3FA-DE77609A4946}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{293C8BD7-9B05-46F5-B3FA-DE77609A4946}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{293C8BD7-9B05-46F5-B3FA-DE77609A4946}.Release|Any CPU.Build.0 = Release|Any CPU
+		{293C8BD7-9B05-46F5-B3FA-DE77609A4946}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{3890E5EB-2ED8-4DFD-B3B8-3EE3EBE74977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3890E5EB-2ED8-4DFD-B3B8-3EE3EBE74977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3890E5EB-2ED8-4DFD-B3B8-3EE3EBE74977}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3890E5EB-2ED8-4DFD-B3B8-3EE3EBE74977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3890E5EB-2ED8-4DFD-B3B8-3EE3EBE74977}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3890E5EB-2ED8-4DFD-B3B8-3EE3EBE74977}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{293C8BD7-9B05-46F5-B3FA-DE77609A4946} = {EEF558D4-9C9E-4041-844D-6A8F97B26F8E}
+		{3890E5EB-2ED8-4DFD-B3B8-3EE3EBE74977} = {EEF558D4-9C9E-4041-844D-6A8F97B26F8E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E5126D4-9514-4667-A1D7-5112355E2C8E}
+	EndGlobalSection
+EndGlobal

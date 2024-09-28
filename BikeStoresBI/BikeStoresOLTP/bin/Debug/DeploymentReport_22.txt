@@ -1,0 +1,43 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [production] (Schema)
+       [sales] (Schema)
+       [production].[stocks] (Table)
+       [production].[products] (Table)
+       [production].[categories] (Table)
+       [production].[brands] (Table)
+       [sales].[stores] (Table)
+       [sales].[staffs] (Table)
+       [sales].[orders] (Table)
+       [sales].[order_items] (Table)
+       [sales].[customers] (Table)
+       Default Constraint: <unnamed> (Default Constraint)
+       [production].[FK_stocks_products] (Foreign Key)
+       [production].[FK_stocks_stores] (Foreign Key)
+       [production].[FK_products_brands] (Foreign Key)
+       [production].[FK_products_categories] (Foreign Key)
+       [sales].[FK_staffs_staffs] (Foreign Key)
+       [sales].[FK_staffs_stores] (Foreign Key)
+       [sales].[FK_orders_customers] (Foreign Key)
+       [sales].[FK_orders_staffs] (Foreign Key)
+       [sales].[FK_orders_stores] (Foreign Key)
+       [sales].[FK_order_items_orders] (Foreign Key)
+       [sales].[FK_order_items_products] (Foreign Key)
+       [dbo].[GetCustomerChangesByRowVersion] (Procedure)
+       [dbo].[GetDatabaseRowVersion] (Procedure)
+       [dbo].[GetOrdersChangesByRowVersion] (Procedure)
+       [dbo].[GetProductChangesByRowVersion] (Procedure)
+       [dbo].[GetStaffChangesByRowVersion] (Procedure)
+       [dbo].[GetStoreChangesByRowVersion] (Procedure)
+
+** Supporting actions

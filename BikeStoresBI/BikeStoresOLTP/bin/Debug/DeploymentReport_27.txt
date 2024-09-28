@@ -1,0 +1,22 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [production].[brands].[region] is being dropped, data loss could occur.
+
+** User actions
+     Drop
+       [production].[DF_region] (Default Constraint)
+     Alter
+       [production].[brands] (Table)
+
+** Supporting actions
+     Refresh
+       [dbo].[GetProductChangesByRowVersion] (Procedure)
+
+The column [production].[brands].[region] is being dropped, data loss could occur.
+
