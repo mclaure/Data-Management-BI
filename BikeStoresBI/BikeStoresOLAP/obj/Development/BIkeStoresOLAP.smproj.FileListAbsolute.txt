@@ -1,0 +1,9 @@
+C:\Documents\Academia\UAGRM\Data Management and Business Intelligence V1\Data-Management-BI\BikeStoresBI\BIkeStoresOLAP\bin\BikeStores.asdatabase
+C:\Documents\Academia\UAGRM\Data Management and Business Intelligence V1\Data-Management-BI\BikeStoresBI\BIkeStoresOLAP\bin\BikeStores.deploymenttargets
+C:\Documents\Academia\UAGRM\Data Management and Business Intelligence V1\Data-Management-BI\BikeStoresBI\BIkeStoresOLAP\bin\BikeStores.deploymentoptions
+C:\Documents\Academia\UAGRM\Data Management and Business Intelligence V1\Data-Management-BI\BikeStoresBI\BIkeStoresOLAP\obj\Development\BIkeStoresOLAP.smproj.AssemblyReference.cache
+C:\Documents\Academia\UAGRM\Data Management and Business Intelligence V1\Data-Management-BI\BikeStoresBI\BIkeStoresOLAP\obj\Development\BIkeStoresOLAP.smproj.SuggestedBindingRedirects.cache
+C:\Documents\Academia\UAGRM\Data Management and Business Intelligence V1\Data-Management-BI\BikeStoresBI\BIkeStoresOLAP\obj\Development\BIkeStoresOLAP.smproj.CoreCompileInputs.cache
+C:\Documents\Academia\UAGRM\Data Management and Business Intelligence V1\Data-Management-BI\BikeStoresBI\BIkeStoresOLAP\obj\Development\BikeStores.asdatabase
+C:\Documents\Academia\UAGRM\Data Management and Business Intelligence V1\Data-Management-BI\BikeStoresBI\BIkeStoresOLAP\obj\Development\BikeStores.deploymentoptions
+C:\Documents\Academia\UAGRM\Data Management and Business Intelligence V1\Data-Management-BI\BikeStoresBI\BIkeStoresOLAP\obj\Development\BikeStores.deploymenttargets
